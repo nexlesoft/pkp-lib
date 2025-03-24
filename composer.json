@@ -24,6 +24,7 @@
 		"michelf/php-markdown": "1.*",
 		"moxiecode/plupload": "2.*",
 		"phpmailer/phpmailer": "6.*",
+		"phpoffice/phpspreadsheet": "^2.1",
 		"pimple/pimple": "3.*",
 		"ralouphie/getallheaders": "*",
 		"slim/slim": "3.*",
