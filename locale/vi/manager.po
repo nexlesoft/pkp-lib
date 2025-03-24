@@ -42,7 +42,7 @@ msgid "manager.announcements.datePublish"
 msgstr "Được phát hành"
 
 msgid "manager.announcements.deleteAnnouncement"
-msgstr ""
+msgstr "Xoá thông báo"
 
 msgid "manager.announcements.edit"
 msgstr "Chỉnh sửa thông báo"
@@ -734,43 +734,43 @@ msgid "manager.roles"
 msgstr "Các Vai trò"
 
 msgid "manager.setup.statistics"
-msgstr ""
+msgstr "Thống kê"
 
 msgid "manager.settings.statistics.geoUsageStats"
-msgstr ""
+msgstr "Thông kê Địa lý"
 
 msgid "manager.settings.statistics.geoUsageStats.description"
-msgstr ""
+msgstr "Chọn loại thống kê sử dụng theo khu vực địa lý cần thu thập. Thống kê địa lý chi tiết hơn có thể làm tăng kích thước cơ sở dữ liệu của bạn đáng kể và, trong một số trường hợp hiếm, có thể làm suy yếu tính ẩn danh của khách truy cập."
 
 msgid "manager.settings.statistics.geoUsageStats.disabled"
-msgstr ""
+msgstr "Không thu thập dữ liệu địa lý nào"
 
 msgid "manager.settings.statistics.geoUsageStats.countryLevel"
-msgstr ""
+msgstr "Thu thập quốc gia của khách truy cập"
 
 msgid "manager.settings.statistics.geoUsageStats.regionLevel"
-msgstr ""
+msgstr "Thu thập quốc gia và khu vực của khách truy cập"
 
 msgid "manager.settings.statistics.geoUsageStats.cityLevel"
-msgstr ""
+msgstr "Thu thập quốc gia, khu vực và thành phố của khách truy cập"
 
 msgid "manager.settings.statistics.institutionUsageStats"
-msgstr ""
+msgstr "Thống kê Tổ chức"
 
 msgid "manager.settings.statistics.institutionUsageStats.description"
-msgstr ""
+msgstr "Kích hoạt thống kê tổ chức nếu bạn muốn thu thập thống kê sử dụng theo tổ chức. Nếu được kích hoạt, bạn sẽ cần cấu hình phạm vi IP cho từng tổ chức bạn muốn theo dõi."
 
 msgid "manager.settings.statistics.institutionUsageStats.enable"
-msgstr ""
+msgstr "Bật thống kê theo tổ chức"
 
 msgid "manager.settings.statistics.publicSushiApi"
-msgstr ""
+msgstr "API công khai"
 
 msgid "manager.settings.statistics.publicSushiApi.description"
-msgstr ""
+msgstr "Có nên hạn chế quyền truy cập vào các điểm cuối API cho thống kê COUNTER SUSHI hay không. Nếu không được chọn, API sẽ chỉ có thể truy cập bởi người dùng có vai trò quản trị viên hoặc quản lý."
 
 msgid "manager.settings.statistics.publicSushiApi.public"
-msgstr ""
+msgstr "Công khai thống kê COUNTER SUSHI"
 
 #, fuzzy
 msgid "manager.statistics.reports"
@@ -795,10 +795,10 @@ msgid "manager.setup.dois"
 msgstr ""
 
 msgid "manager.setup.dois.setup"
-msgstr ""
+msgstr "Thiết lập"
 
 msgid "manager.setup.dois.registration"
-msgstr ""
+msgstr "Đăng ký"
 
 msgid "doi.manager.settings.doiPrefix"
 msgstr ""
@@ -822,10 +822,10 @@ msgid "doi.manager.settings.doiPrefixPattern"
 msgstr ""
 
 msgid "doi.manager.settings.doiCreationTime.label"
-msgstr ""
+msgstr "Tự động Gán DOI"
 
 msgid "doi.manager.settings.doiCreationTime.description"
-msgstr ""
+msgstr "Khi nào thì một bài nộp nên được gán một DOI?"
 
 msgid "doi.manager.settings.doiCreationTime.publication"
 msgstr ""
@@ -849,7 +849,7 @@ msgid "doi.manager.settings.doiSuffix.pattern"
 msgstr ""
 
 msgid "doi.manager.settings.doiSuffix.custom"
-msgstr ""
+msgstr "Thiết lập mẫu hậu tố tùy chỉnh cho DOI"
 
 msgid "doi.manager.settings.enabledDoiTypes.error"
 msgstr ""
@@ -866,7 +866,7 @@ msgid "doi.manager.settings.doiSuffixManual"
 msgstr ""
 
 msgid "doi.manager.settings.doiSuffixUserDefined"
-msgstr ""
+msgstr "Mẫu tùy chỉnh - (không được khuyến nghị)"
 
 msgid "doi.manager.settings.registrationAgency"
 msgstr ""
@@ -936,7 +936,7 @@ msgstr ""
 "gửi."
 
 msgid "manager.setup.disableSubmissions"
-msgstr ""
+msgstr "Vô hiệu hóa việc gửi bài"
 
 msgid "manager.setup.checklist"
 msgstr "Danh mục kiểm tra"
@@ -994,34 +994,34 @@ msgid "manager.setup.notifications.copySpecifiedAddress"
 msgstr "Gửi một bản sao đến địa chỉ email này"
 
 msgid "manager.setup.notifyAllAuthors"
-msgstr ""
+msgstr "Thông báo cho Tất cả Tác giả"
 
 msgid "manager.setup.notifyAllAuthors.description"
-msgstr ""
+msgstr "Ai sẽ nhận được thông báo qua email khi một quyết định biên tập được ghi lại?"
 
 msgid "manager.setup.notifyAllAuthors.allAuthors"
-msgstr ""
+msgstr "Gửi thông báo qua email cho tất cả các tác giả của bài nộp."
 
 msgid "manager.setup.notifyAllAuthors.assignedAuthors"
-msgstr ""
+msgstr "Chỉ gửi thông báo qua email cho các tác giả được gán vào quy trình làm việc bài nộp. Thông thường, đây là tác giả nộp bài."
 
 msgid "manager.setup.submissionsNotifications"
 msgstr ""
 
 msgid "manager.setup.notifications.copySubmissionAckPrimaryContact"
-msgstr ""
+msgstr "Thông báo Người liên lạc chính"
 
 msgid "manager.setup.notifications.copySubmissionAckPrimaryContact.enabled"
-msgstr ""
+msgstr "Có, gửi một bản sao đến {$email}"
 
 msgid "manager.setup.notifications.copySubmissionAckPrimaryContact.disabled"
-msgstr ""
+msgstr "Không"
 
 msgid "manager.setup.notifications.copySubmissionAckAddress"
-msgstr ""
+msgstr "Thông báo cho bất kỳ ai"
 
 msgid "manager.setup.notifications.copySubmissionAckAddress.description"
-msgstr ""
+msgstr "Một bản sao email xác nhận bài nộp sẽ được gửi đến bất kỳ địa chỉ email nào được nhập tại đây. Tách các địa chỉ email bằng dấu phẩy. Ví dụ: one@example.com, two@example.com"
 
 msgid "manager.setup.notifications.copySubmissionAckAddress.invalid"
 msgstr ""
@@ -1032,13 +1032,13 @@ msgstr ""
 "các bản sao của email này được gửi tới những địa chỉ sau:"
 
 msgid "manager.setup.notifyUsers"
-msgstr ""
+msgstr "Thông báo"
 
 msgid "manager.setup.notifyUsers.description"
-msgstr ""
+msgstr "Chọn người dùng sẽ nhận thông báo qua email của bạn."
 
 msgid "manager.setup.notifyUsers.copyDetails"
-msgstr ""
+msgstr "Gửi một bản sao của email này đến tôi tại {$email}."
 
 msgid "manager.setup.notifyUsers.send"
 msgstr ""
@@ -1210,7 +1210,7 @@ msgid "manager.setup.theme.notFound"
 msgstr "Chủ đề bạn đã chọn chưa được cài đặt hoặc kích hoạt."
 
 msgid "manager.setup.workflow.beginSubmissionHelp.description"
-msgstr ""
+msgstr "Nội dung sau đây được hiển thị cho các tác giả trong bước chi tiết, khi họ được yêu cầu cung cấp tiêu đề, tóm tắt và các thông tin quan trọng khác về bài nộp của họ."
 
 msgid "manager.setup.workflow.uploadFilesHelp.description"
 msgstr ""
@@ -1222,13 +1222,13 @@ msgid "manager.setup.workflow.detailsHelp.description"
 msgstr ""
 
 msgid "manager.setup.workflow.forTheEditorsHelp.description"
-msgstr ""
+msgstr "Nội dung sau đây được hiển thị cho các tác giả trong bước Dành cho Biên tập viên, khi họ được yêu cầu cung cấp các siêu dữ liệu như từ khóa, bình luận cho biên tập viên, và các chi tiết khác để hỗ trợ trong việc đánh giá biên tập."
 
 msgid "manager.setup.workflow.reviewHelp.description"
-msgstr ""
+msgstr "Nội dung sau đây được hiển thị cho các tác giả trong bước cuối cùng của trình hướng dẫn nộp bài, khi họ được yêu cầu xem xét lại tất cả các thông tin họ đã cung cấp trước khi gửi bài của mình."
 
 msgid "manager.setup.workflow.guidance"
-msgstr ""
+msgstr "Hướng dẫn cho tác giả"
 
 msgid "manager.setup.submissionPreparationChecklist"
 msgstr "Checklist cho các bài chuẩn bị gửi"
@@ -1243,7 +1243,7 @@ msgstr ""
 "trước khi tác giả có thể tiến hành gửi."
 
 msgid "manager.sections.form.deactivateSection"
-msgstr ""
+msgstr "Vô hiệu hóa phần này và không cho phép gửi bài mới vào đó."
 
 msgid "manager.sections.confirmDeactivateSection"
 msgstr ""
@@ -1252,16 +1252,16 @@ msgid "manager.sections.confirmActivateSection"
 msgstr ""
 
 msgid "manager.sections.form.assignEditors"
-msgstr ""
+msgstr "Phân công biên tập"
 
 msgid "manager.sections.form.assignEditors.description"
-msgstr ""
+msgstr "Chọn người dùng biên tập nên được tự động phân công cho tất cả các bài nộp mới vào phần này."
 
 msgid "manager.sections.form.assignEditorAs"
-msgstr ""
+msgstr "Phân công {$name} làm {$role}"
 
 msgid "manager.categories.form.assignEditors.description"
-msgstr ""
+msgstr "Chọn người dùng biên tập nên được tự động phân công cho tất cả các bài nộp mới vào phần này."
 
 msgid "manager.siteAccessOptions.siteAccessOptions"
 msgstr "Tùy chọn truy cập trang web"
@@ -1738,22 +1738,22 @@ msgstr ""
 "đồng thời phải bắt đầu và kết thúc bằng ký tự chữ và số."
 
 msgid "manager.setup.genres.metatadata"
-msgstr ""
+msgstr "Siêu dữ liệu tệp"
 
 msgid "manager.setup.genres.metatadata.description"
-msgstr ""
+msgstr "Chọn loại siêu dữ liệu mà các tệp này có thể nhận được. Tài liệu nên được chọn cho các tệp xuất bản chính, chẳng hạn như PDF có thể tải xuống, để các tệp này thừa kế siêu dữ liệu từ bài xuất bản. Ngoài ra, hãy chọn Nội dung bổ sung cho hầu hết các loại tệp. Tác phẩm nghệ thuật phù hợp cho các tệp yêu cầu siêu dữ liệu riêng biệt về quyền tác giả, chú thích và cấp phép."
 
 msgid "manager.setup.genres.submitRequired.label"
-msgstr ""
+msgstr "Yêu cầu kèm theo khi nộp bài"
 
 msgid "manager.setup.genres.submitRequired.description"
-msgstr ""
+msgstr "Liệu có nên yêu cầu ít nhất một trong những tệp này cần được cung cấp với mỗi bài nộp mới không? Nếu bạn chọn có, các tác giả sẽ không được phép nộp bài cho đến khi họ tải lên ít nhất một tệp thuộc loại này."
 
 msgid "manager.setup.genres.submitRequired.yes"
-msgstr ""
+msgstr "Có, yêu cầu các tác giả nộp bài tải lên một hoặc nhiều tệp trong số này."
 
 msgid "manager.setup.genres.submitRequired.no"
-msgstr ""
+msgstr "Không, cho phép nộp bài mới mà không cần các tệp này."
 
 msgid "manager.settings.wizard"
 msgstr "Trình hướng dẫn cài đặt"
@@ -1972,24 +1972,6 @@ msgstr "Yêu cầu tác giả đề xuất từ khóa trong quá trình gửi b�
 msgid "manager.setup.metadata.keywords.require"
 msgstr "Yêu cầu tác giả đề xuất các từ khóa trước khi chấp nhận bài của họ."
 
-msgid "manager.setup.metadata.languages.description"
-msgstr ""
-"Ngôn ngữ chỉ ra ngôn ngữ chính của tác phẩm bằng mã ngôn ngữ, tiếng Anh/"
-"tiếng Việt (\"en\"/\"vi\") với mã quốc gia tùy chọn (\"en_US\"/\"vi_VN\")."
-
-msgid "manager.setup.metadata.languages.enable"
-msgstr "Bật siêu dữ liệu ngôn ngữ"
-
-msgid "manager.setup.metadata.languages.noRequest"
-msgstr "Không yêu cầu ngôn ngữ của bài gửi từ tác giả trong quá trình gửi bài."
-
-msgid "manager.setup.metadata.languages.request"
-msgstr "Yêu cầu tác giả cho biết ngôn ngữ của bài gửi trong quá trình gửi bài."
-
-msgid "manager.setup.metadata.languages.require"
-msgstr ""
-"Yêu cầu tác giả nhập ngôn ngữ của bài nộp trước khi chấp nhận bài gửi của họ."
-
 msgid "manager.setup.metadata.rights.description"
 msgstr ""
 "Bất kỳ quyền nào có được đối với bài gửi, có thể bao gồm Quyền sở hữu trí "
@@ -2121,16 +2103,16 @@ msgstr ""
 "họ."
 
 msgid "manager.setup.metadata.dataAvailability.description"
-msgstr ""
+msgstr "Một tuyên bố ngắn gọn mô tả liệu các tác giả có cung cấp dữ liệu nghiên cứu của họ hay không và, nếu có, nơi độc giả có thể truy cập nó."
 
 msgid "manager.setup.metadata.dataAvailability.enable"
-msgstr ""
+msgstr "Kích hoạt siêu dữ liệu tuyên bố về khả năng cung cấp dữ liệu"
 
 msgid "manager.setup.metadata.dataAvailability.noRequest"
-msgstr ""
+msgstr "Không yêu cầu tác giả cung cấp tuyên bố về khả năng cung cấp dữ liệu trong quá trình nộp bài."
 
 msgid "manager.setup.metadata.dataAvailability.request"
-msgstr ""
+msgstr "Yêu cầu tác giả cung cấp tuyên bố về khả năng cung cấp dữ liệu trong quá trình nộp bài."
 
 msgid "manager.setup.metadata.dataAvailability.require"
 msgstr ""
@@ -2319,16 +2301,6 @@ msgid "manager.navigationMenus.about.conditionalWarning"
 msgstr ""
 "Liên kết này sẽ chỉ được hiển thị nếu bạn đã điền vào phần Giới thiệu Tạp "
 "chí trong Cài đặt > Tạp chí."
-
-msgid "manager.navigationMenus.editorialTeam.description"
-msgstr ""
-"Liên kết đến một trang hiển thị nội dung giới thiệu về Ban biên tập trong "
-"Cài đặt > Tạp chí."
-
-msgid "manager.navigationMenus.editorialTeam.conditionalWarning"
-msgstr ""
-"Liên kết này sẽ chỉ được hiển thị nếu bạn đã điền vào phần Nhóm biên tập "
-"trong Cài đặt> Nhật ký."
 
 msgid "manager.navigationMenus.submissions.description"
 msgstr "Liên kết đến trang hiển thị hướng dẫn gửi bài."
@@ -2977,13 +2949,13 @@ msgid ""
 msgstr ""
 
 msgid "mailable.decision.accept.notifyAuthor.name"
-msgstr ""
+msgstr "Bài gửi được chấp nhận"
 
 msgid "mailable.decision.accept.notifyAuthor.description"
 msgstr ""
 
 msgid "mailable.decision.backToCopyediting.notifyAuthor.name"
-msgstr ""
+msgstr "Bài Viết Gửi Lại Biên Tập"
 
 msgid "mailable.decision.backToCopyediting.notifyAuthor.description"
 msgstr ""
@@ -3046,13 +3018,13 @@ msgid "mailable.decision.sendExternalReview.notifyAuthor.description"
 msgstr ""
 
 msgid "mailable.decision.sendToProduction.notifyAuthor.name"
-msgstr ""
+msgstr "Gửi đi Sản xuất"
 
 msgid "mailable.decision.sendToProduction.notifyAuthor.description"
 msgstr ""
 
 msgid "mailable.decision.skipReview.notifyAuthor.name"
-msgstr ""
+msgstr "Bài gửi đã được chấp nhận (Bỏ qua bước duyệt bài)"
 
 msgid "mailable.decision.skipReview.notifyAuthor.description"
 msgstr ""
@@ -3182,7 +3154,7 @@ msgid "mailable.submissionSavedForLater.description"
 msgstr ""
 
 msgid "mailable.submissionAck.name"
-msgstr ""
+msgstr "Xác nhận Nộp bài"
 
 #, fuzzy
 msgid "mailable.submissionAck.description"
@@ -3269,10 +3241,10 @@ msgid "mailable.decision.backToSubmission.notifyAuthor.description"
 msgstr ""
 
 msgid "manager.manageEmails"
-msgstr ""
+msgstr "Quản lý Email"
 
 msgid "manager.manageEmailTemplates.description"
-msgstr ""
+msgstr "<p><a href=\"{$url}\">Thêm và chỉnh sửa các mẫu</a> cho tất cả các email được gửi bởi hệ thống.</p>"
 
 msgid "manager.mailables.addTemplates"
 msgstr ""
@@ -3302,55 +3274,55 @@ msgid "manager.emailTemplate.name.description"
 msgstr ""
 
 msgid "manager.newSubmission"
-msgstr ""
+msgstr "Nộp bài mới"
 
 msgid "manager.newSubmission.description"
-msgstr ""
+msgstr "Cấu hình các thông báo email để gửi khi có một bài nộp mới."
 
 msgid "manager.submissionAck.description"
-msgstr ""
+msgstr "Ai sẽ nhận được email khi một bài nộp mới được hoàn tất."
 
 msgid "manager.submissionAck.off"
-msgstr ""
+msgstr "Không gửi email"
 
 msgid "manager.submissionAck.submittingAuthor"
-msgstr ""
+msgstr "Chỉ gửi email cho tác giả đã nộp bài."
 
 msgid "manager.submissionAck.allAuthors"
-msgstr ""
+msgstr "Gửi email cho tất cả các tác giả."
 
 msgid "manager.editorialDecisions"
-msgstr ""
+msgstr "Quyết định Biên tập"
 
 msgid "manager.editorialDecisions.description"
-msgstr ""
+msgstr "Cấu hình các thông báo email để gửi cho tác giả khi một quyết định biên tập được ghi lại."
 
 msgid "manager.forEditors"
-msgstr ""
+msgstr "Dành cho Biên tập viên"
 
 msgid "manager.forEditors.description"
-msgstr ""
+msgstr "Cấu hình các thông báo email để gửi cho biên tập viên"
 
 msgid "manager.editorialStatistics"
-msgstr ""
+msgstr "Thống kê biên tập"
 
 msgid "manager.editorialStatistics.description"
-msgstr ""
+msgstr "Có gửi email hàng tháng cho các biên tập viên với các thống kê biên tập của tạp chí, chẳng hạn như tỷ lệ chấp nhận và từ chối hay không. Các biên tập viên có thể hủy đăng ký nhận email này từ hồ sơ người dùng của họ."
 
 msgid "manager.editorialStatistics.on"
-msgstr ""
+msgstr "Gửi email hàng tháng cho các biên tập viên."
 
 msgid "manager.editorialStatistics.off"
-msgstr ""
+msgstr "Không gửi email cho các biên tập viên."
 
 msgid "manager.submitWithCategories.description"
-msgstr ""
+msgstr "Có nên yêu cầu tác giả nộp bài chọn một danh mục khi họ thực hiện một bài nộp mới không?"
 
 msgid "manager.submitWithCategories.yes"
-msgstr ""
+msgstr "Có, thêm trường danh mục vào trình hướng dẫn nộp bài."
 
 msgid "manager.submitWithCategories.no"
-msgstr ""
+msgstr "Không, không hiển thị trường này cho các tác giả."
 
 msgid "mailable.copyeditRequest.name"
 msgstr ""
@@ -3439,6 +3411,9 @@ msgstr ""
 msgid "manager.setup.competingInterests.requireAuthors"
 msgstr ""
 "Yêu cầu tác giả gửi một tuyên bố xung đột lợi ích (CI) với bài gửi của họ."
+
+msgid "manager.setup.masthead"
+msgstr "Tiêu đề"
 
 msgid "plugins.importexport.common.validation"
 msgstr "Xác thực XML trước khi xuất và đăng ký."

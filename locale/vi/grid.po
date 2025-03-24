@@ -129,7 +129,7 @@ msgid "grid.action.order"
 msgstr "Sắp xếp"
 
 msgid "grid.action.saveOrdering"
-msgstr ""
+msgstr "Lưu Đơn"
 
 msgid "grid.action.cancelOrdering"
 msgstr "Hủy sắp xếp"
@@ -451,25 +451,25 @@ msgid "author.users.contributor.setPrincipalContact"
 msgstr ""
 
 msgid "contributor.listPanel.preview"
-msgstr ""
+msgstr "Xem trước"
 
 msgid "contributor.listPanel.preview.description"
-msgstr ""
+msgstr "Những người đóng góp cho ấn phẩm này sẽ được nhận diện theo các định dạng sau."
 
 msgid "contributor.listPanel.preview.format"
-msgstr ""
+msgstr "Định dạng"
 
 msgid "contributor.listPanel.preview.display"
-msgstr ""
+msgstr "Hiển thị"
 
 msgid "contributor.listPanel.preview.abbreviated"
-msgstr ""
+msgstr "Rút gọn"
 
 msgid "contributor.listPanel.preview.publicationLists"
-msgstr ""
+msgstr "Danh sách Ấn phẩm"
 
 msgid "contributor.listPanel.preview.full"
-msgstr ""
+msgstr "Đầy đủ"
 
 msgid "grid.roles.currentRoles"
 msgstr "Các vai trò hiện tại"

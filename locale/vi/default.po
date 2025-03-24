@@ -145,15 +145,17 @@ msgstr ""
 
 msgid "default.submission.step.uploadFiles"
 msgstr ""
+"<p>Vui lòng cung cấp bất kỳ tệp nào mà đội ngũ biên tập của chúng tôi có thể cần để đánh giá bài nộp của bạn. Bên cạnh tác phẩm chính, bạn có thể muốn gửi các bộ dữ liệu, tuyên bố xung đột lợi ích hoặc các tệp bổ sung khác nếu những điều này hữu ích cho đội ngũ biên tập của chúng tôi.</p>"
 
 msgid "default.submission.step.contributors"
 msgstr ""
+"<p>Thêm chi tiết cho tất cả những người đóng góp vào bài nộp này. Những người đóng góp được thêm vào đây sẽ nhận được email xác nhận về bài nộp, cũng như một bản sao của tất cả các quyết định biên tập được ghi nhận liên quan đến bài nộp này.</p>"
 
 msgid "default.submission.step.details"
 msgstr ""
 
 msgid "default.submission.step.forTheEditors"
-msgstr ""
+msgstr "Vui lòng cung cấp các chi tiết sau để giúp đội ngũ biên tập của chúng tôi quản lý bài nộp của bạn. Khi nhập siêu dữ liệu, hãy cung cấp các mục nhập mà bạn cho rằng sẽ hữu ích nhất cho người quản lý bài nộp của bạn. Thông tin này có thể được thay đổi trước khi xuất bản."
 
 msgid "default.submission.step.review"
 msgstr ""
