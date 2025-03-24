@@ -36,7 +36,7 @@ msgid "submission.submit.availableUserGroupsDescription"
 msgstr "Chọn vai trò mô tả tốt nhất đóng góp của bạn cho bài nộp này."
 
 msgid "submission.submit.managerUserGroupsDescription"
-msgstr ""
+msgstr "Chọn một vai trò biên tập nếu bạn muốn tự mình chỉnh sửa và xuất bản bài nộp này."
 
 msgid "submission.submit.submissionChecklist"
 msgstr "Yêu cầu gửi bài"
@@ -48,13 +48,13 @@ msgstr ""
 "khi tiếp tục."
 
 msgid "submission.submit.submissionChecklistConfirm"
-msgstr ""
+msgstr "Vâng, bài nộp của tôi đáp ứng tất cả các yêu cầu này."
 
 msgid "submission.submit.submissionComplete"
 msgstr "Hoàn thành gửi bài"
 
 msgid "submission.submit.genre.label"
-msgstr ""
+msgstr "Đây là loại tệp gì?"
 
 msgid "submission.submit.genre.description"
 msgstr ""
@@ -530,7 +530,7 @@ msgid "submission.coverage"
 msgstr "Thông tin phủ sóng"
 
 msgid "submission.details"
-msgstr ""
+msgstr "Bài viết chi tiết"
 
 msgid "submission.done"
 msgstr "Hoàn thành"
@@ -682,7 +682,7 @@ msgid "submission.firstPublished"
 msgstr ""
 
 msgid "submission.forTheEditors"
-msgstr ""
+msgstr "Dành cho Biên tập viên"
 
 msgid "submission.galley"
 msgstr "Các bản in"
@@ -958,7 +958,7 @@ msgid "submission.review"
 msgstr "Phản biện"
 
 msgid "submission.reviewAndSubmit"
-msgstr ""
+msgstr "Xem lại và Nộp bài"
 
 msgid "submission.reviewed"
 msgstr "Đã phản biện"
@@ -1072,7 +1072,7 @@ msgid "submission.manageDependentFiles"
 msgstr "Quản lý các tập tin phụ thuộc"
 
 msgid "submission.upload.instructions"
-msgstr ""
+msgstr "Tải lên các tệp mà đội ngũ biên tập sẽ cần để đánh giá bài nộp của bạn."
 
 msgid "submission.upload.percentComplete"
 msgstr ""
@@ -1399,7 +1399,7 @@ msgid "editor.submission.decision"
 msgstr "Quyết định"
 
 msgid "editor.submission.decision.notifyAuthors"
-msgstr ""
+msgstr "Thông báo cho tác giả"
 
 msgid "editor.submission.decision.notifyReviewers"
 msgstr ""
@@ -1415,16 +1415,16 @@ msgid "editor.submission.decision.accept"
 msgstr "Chấp nhận bài gửi"
 
 msgid "editor.submission.decision.accept.description"
-msgstr ""
+msgstr "Bài gửi sẽ được chấp nhận để xuất bản và gởi qua biên tập."
 
 msgid "editor.submission.decision.accept.log"
 msgstr ""
 
 msgid "editor.submission.decision.accept.completed"
-msgstr ""
+msgstr "Bài gửi được chấp nhận"
 
 msgid "editor.submission.decision.accept.completedDescription"
-msgstr ""
+msgstr "Bài gửi, {$title}, đã được chấp nhận để xuất bản và đã được gởi qua biên tập. Tất cả các thông báo đã được gởi, trừ khi bạn chọn bỏ bước thông báo mail."
 
 msgid "editor.submission.decision.accept.notifyAuthorsDescription"
 msgstr ""
@@ -1436,16 +1436,16 @@ msgid "editor.submission.decision.decline"
 msgstr "Từ chối bài gửi"
 
 msgid "editor.submission.decision.decline.description"
-msgstr ""
+msgstr "Bài nộp này sẽ bị từ chối xuất bản. Giai đoạn đánh giá sẽ được đóng lại và bài nộp sẽ được lưu trữ."
 
 msgid "editor.submission.decision.decline.log"
 msgstr ""
 
 msgid "editor.submission.decision.decline.completed"
-msgstr ""
+msgstr "Từ chối bài nộp"
 
 msgid "editor.submission.decision.decline.completed.description"
-msgstr ""
+msgstr "Bài nộp, {$title}, đã bị từ chối và được gửi vào kho lưu trữ. Tất cả các thông báo đã được gửi đi, ngoại trừ bất kỳ thông báo nào bạn chọn bỏ qua."
 
 msgid "editor.submission.decision.decline.notifyAuthorsDescription"
 msgstr ""
@@ -1457,7 +1457,7 @@ msgid "editor.submission.decision.newReviewRound"
 msgstr ""
 
 msgid "editor.submission.decision.newReviewRound.description"
-msgstr ""
+msgstr "Mở một vòng đánh giá khác cho bài nộp này."
 
 msgid "editor.submission.decision.newReviewRound.log"
 msgstr ""
@@ -1472,13 +1472,13 @@ msgid "editor.submission.decision.newReviewRound.notifyAuthorsDescription"
 msgstr ""
 
 msgid "editor.submission.decision.promoteFiles.copyediting"
-msgstr ""
+msgstr "Chọn tệp tin để gởi qua biên tập."
 
 msgid "editor.submission.decision.promoteFiles.review"
-msgstr ""
+msgstr "Chọn các tệp cần được gửi để đánh giá."
 
 msgid "editor.submission.decision.promoteFiles.production"
-msgstr ""
+msgstr "Những tệp tin chọn cần được gửi cho khâu sản xuất."
 
 msgid "editor.submission.decision.requestRevisions"
 msgstr "Yêu cầu Sửa chữa"
@@ -1490,7 +1490,7 @@ msgid "editor.submission.decision.requestRevisions.log"
 msgstr ""
 
 msgid "editor.submission.decision.requestRevisions.completed"
-msgstr ""
+msgstr "Yêu cầu sửa đổi"
 
 msgid "editor.submission.decision.requestRevisions.completed.description"
 msgstr ""
@@ -1499,10 +1499,10 @@ msgid "editor.submission.decision.requestRevisions.notifyAuthorsDescription"
 msgstr ""
 
 msgid "editor.submission.decision.cancelReviewRound"
-msgstr ""
+msgstr "Huỷ đợt duyệt"
 
 msgid "editor.submission.decision.cancelReviewRound.description"
-msgstr ""
+msgstr "Huỷ đợt duyệt hiện tại và gởi bài viết về bước duyệt trước. Nếu đây là đợt duyệt đầu tiên, bài viết sẽ được gởi lại khâu nộp bài."
 
 msgid "editor.submission.decision.cancelReviewRound.log"
 msgstr ""
@@ -1511,7 +1511,7 @@ msgid "editor.submission.decision.cancelReviewRound.completed"
 msgstr ""
 
 msgid "editor.submission.decision.cancelReviewRound.completed.description"
-msgstr ""
+msgstr "Hủy vòng đánh giá mới nhất. Vòng đánh giá cho bài gửi, {$title}, đã bị hủy. Tất cả các thông báo đã được gửi đi, ngoại trừ bất kỳ thông báo nào bạn chọn bỏ qua."
 
 msgid "editor.submission.decision.cancelReviewRound.restriction"
 msgstr ""
@@ -1520,25 +1520,25 @@ msgid "editor.submission.decision.resubmit"
 msgstr "Gửi lại để đánh giá tiếp"
 
 msgid "editor.submission.decision.resubmit.description"
-msgstr ""
+msgstr "Tác giả phải cung cấp các sửa đổi sẽ được gửi để tiến hành một vòng đánh giá khác trước khi bài nộp này được chấp nhận để xuất bản."
 
 msgid "editor.submission.decision.resubmit.log"
 msgstr ""
 
 msgid "editor.submission.decision.resubmit.completed"
-msgstr ""
+msgstr "Yêu cầu sửa đổi"
 
 msgid "editor.submission.decision.resubmit.completed.description"
-msgstr ""
+msgstr "Sửa đổi cho bài gửi, {$title}, đã được yêu cầu. Một quyết định gửi các sửa đổi cho một vòng đánh giá khác đã được ghi nhận. Tất cả các thông báo đã được gửi đi, ngoại trừ bất kỳ thông báo nào bạn chọn bỏ qua."
 
 msgid "editor.submission.decision.resubmit.notifyAuthorsDescription"
 msgstr ""
 
 msgid "editor.submission.decision.sendExternalReview"
-msgstr ""
+msgstr "Gởi để duyệt bài"
 
 msgid "editor.submission.decision.sendExternalReview.description"
-msgstr ""
+msgstr "Bài gửi này đã sẵn sàng để gửi phản biện."
 
 msgid "editor.submission.decision.sendExternalReview.log"
 msgstr ""
@@ -1547,7 +1547,7 @@ msgid "editor.submission.decision.sendExternalReview.completed"
 msgstr ""
 
 msgid "editor.submission.decision.sendExternalReview.completed.description"
-msgstr ""
+msgstr "Bài gửi, {$title}, đã được gởi để phê duyệt. Tác giả đã được thông báo, nếu bạn không chọn bỏ qua email thông báo."
 
 msgid "editor.submission.decision.newRound"
 msgstr "Vòng đánh giá mới"
@@ -1556,22 +1556,22 @@ msgid "editor.submission.decision.sendToProduction"
 msgstr "Gửi sang để Sản xuất"
 
 msgid "editor.submission.decision.sendToProduction.description"
-msgstr ""
+msgstr "Gửi bài viết đến khâu sản xuất chuẩn bị cho xuất bản."
 
 msgid "editor.submission.decision.sendToProduction.log"
 msgstr ""
 
 msgid "editor.submission.decision.sendToProduction.completed"
-msgstr ""
+msgstr "Gửi đi Sản xuất"
 
 msgid "editor.submission.decision.sendToProduction.completed.description"
-msgstr ""
+msgstr "Bài viết {$title}, được gửi lại khâu sản xuất. Tác giả sẽ được thông báo quyết định này trừ khi bạn bỏ qua bước thông báo mail."
 
 msgid "editor.submission.decision.sendToProduction.notifyAuthorsDescription"
-msgstr ""
+msgstr "Gửi email thông báo đến tác giả về bài đã được gửi đến khâu sản xuất. Email sẽ chưa gửi đi cho đến khi quyết định được ghi nhận."
 
 msgid "editor.submission.decision.backFromCopyediting"
-msgstr ""
+msgstr "Huỷ biên tập bản thảo"
 
 msgid "editor.submission.decision.backFromCopyediting.description"
 msgstr ""
@@ -1589,37 +1589,37 @@ msgid "editor.submission.decision.backFromCopyediting.notifyAuthorsDescription"
 msgstr ""
 
 msgid "editor.submission.decision.backToCopyediting"
-msgstr ""
+msgstr "Quay lại Biên tập"
 
 msgid "editor.submission.decision.backToCopyediting.description"
-msgstr ""
+msgstr "Gửi bài viết quay lại khâu biên tập."
 
 msgid "editor.submission.decision.backToCopyediting.log"
 msgstr ""
 
 msgid "editor.submission.decision.backToCopyediting.completed"
-msgstr ""
+msgstr "Gửi Lại Biên Tập"
 
 msgid "editor.submission.decision.backToCopyediting.completed.description"
-msgstr ""
+msgstr "Bài viết {$title}, được gửi lại khâu biên tập. Tác giả sẽ được thông báo quyết định này trừ khi bạn bỏ qua bước thông báo mail."
 
 msgid "editor.submission.decision.backToCopyediting.notifyAuthorsDescription"
-msgstr ""
+msgstr "Gửi email thông báo tới tác giả về bài đã được gửi lại khâu biên tập. Giải thích lý do của quyết định này và thông báo tác giả chi tiết yêu cầu cần điều chỉnh thêm trước khi bài qua khâu sản xuất."
 
 msgid "editor.submission.decision.skipReview"
 msgstr "Chấp nhận và bỏ qua khâu Phản biện"
 
 msgid "editor.submission.decision.skipReview.description"
-msgstr ""
+msgstr "Chấp nhận xuất bản bài gử này và bỏ qua bước duyệt bài. Bài gửi sẽ được chuyển đến giai đoạn biên tập."
 
 msgid "editor.submission.decision.skipReview.log"
 msgstr ""
 
 msgid "editor.submission.decision.skipReview.completed"
-msgstr ""
+msgstr "Bỏ qua đánh giá"
 
 msgid "editor.submission.decision.skipReview.completed.description"
-msgstr ""
+msgstr "Bài viết {$title}, được bỏ qua khâu đánh giá để chuyển đến khâu biên tập. Tác giả sẽ được thông báo quyết định này trừ khi bạn bỏ qua bước thông báo mail."
 
 msgid "editor.submission.decision.skipReview.notifyAuthorsDescription"
 msgstr ""
@@ -1641,7 +1641,7 @@ msgstr ""
 "từ chối nó?"
 
 msgid "editor.submission.decision.revertDecline"
-msgstr ""
+msgstr "Hoàn tác từ chối"
 
 msgid "editor.submission.decision.revertDecline.description"
 msgstr ""
@@ -1997,7 +1997,7 @@ msgid "submission.copyright"
 msgstr "Bản quyền"
 
 msgid "submission.copyright.agree"
-msgstr ""
+msgstr "Vâng, tôi đồng ý với tuyên bố bản quyền."
 
 msgid "submission.copyrightHolder"
 msgstr "Chủ sở hữu bản quyền"
@@ -2231,7 +2231,7 @@ msgid "submission.list.confirmDelete"
 msgstr "Xóa bài gửi?"
 
 msgid "submission.list.viewAllSubmissions"
-msgstr ""
+msgstr "Xem tất cả bài gửi"
 
 msgid "submission.list.viewSubmission"
 msgstr "Xem bài gửi"
@@ -2285,7 +2285,7 @@ msgid "submission.wizard.alreadySubmitted"
 msgstr ""
 
 msgid "submission.wizard.beforeStart"
-msgstr ""
+msgstr "Trước khi bắt đầu"
 
 msgid "submission.wizard.categories.description"
 msgstr ""
@@ -2297,28 +2297,28 @@ msgid "submission.wizard.completeSteps"
 msgstr ""
 
 msgid "submission.wizard.confirmSubmit"
-msgstr ""
+msgstr "Bài nộp, <strong>{$title}</strong>, sẽ được gửi đến <strong>{$context}</strong> để được xem xét biên tập. Bạn có chắc chắn muốn hoàn tất bài nộp này không?"
 
 msgid "submission.wizard.errors"
-msgstr ""
+msgstr "Có một hoặc nhiều vấn đề cần được khắc phục trước khi bạn có thể nộp bài. Vui lòng xem xét thông tin bên dưới và thực hiện các thay đổi được yêu cầu."
 
 msgid "submission.wizard.validating"
-msgstr ""
+msgstr "Đang kiểm tra bài gửi"
 
 msgid "submission.wizard.commentsForTheEditor.description"
-msgstr ""
+msgstr "Thêm bất kỳ thông tin nào mà bạn nghĩ rằng đội ngũ biên tập của chúng tôi nên biết khi đánh giá bài nộp của bạn."
 
 msgid "submission.wizard.confirm"
-msgstr ""
+msgstr "Vui lòng xác nhận các thông tin sau trước khi bạn nộp bài."
 
 msgid "submission.wizard.title"
-msgstr ""
+msgstr "Nộp bài"
 
 msgid "submission.wizard.titleWithStep"
-msgstr ""
+msgstr "Thực hiện Nộp bài: {$step}"
 
 msgid "submission.wizard.noContributors"
-msgstr ""
+msgstr "Chưa có người đóng góp nào được thêm vào bài nộp này."
 
 msgid "submission.wizard.missingContributorLanguage"
 msgstr ""
@@ -2327,22 +2327,22 @@ msgid "submission.wizard.notAllowed"
 msgstr ""
 
 msgid "submission.wizard.privacyConsent"
-msgstr ""
+msgstr "Đồng ý Quyền riêng tư"
 
 msgid "submission.wizard.saved"
-msgstr ""
+msgstr "Lưu để sau"
 
 msgid "submission.wizard.saved.description"
 msgstr ""
 
 msgid "submission.wizard.saved.emailConfirmation"
-msgstr ""
+msgstr "Chúng tôi đã gửi một bản sao của đường dẫn này đến địa chỉ email của bạn tại {$email}."
 
 msgid "submission.wizard.sectionClosed"
 msgstr ""
 
 msgid "submission.wizard.start"
-msgstr ""
+msgstr "Bắt đầu Nộp bài"
 
 msgid "submission.wizard.startingStatus"
 msgstr ""
@@ -2351,7 +2351,7 @@ msgid "submission.wizard.unableToSave"
 msgstr ""
 
 msgid "grid.category.categories"
-msgstr "Thể loại"
+msgstr "Danh mục"
 
 msgid "catalog.sortBy.titleAsc"
 msgstr "Tiêu đề  (A-Z)"
@@ -2366,13 +2366,13 @@ msgid "catalog.sortBy.datePublishedDesc"
 msgstr "Ngày xuất bản (mới nhất đầu tiên)"
 
 msgid "category.category"
-msgstr ""
+msgstr "Danh mục"
 
 msgid "category.coverImage"
 msgstr "Ảnh bìa"
 
 msgid "submission.submit.placement.categories"
-msgstr "Thể loại"
+msgstr "Danh mục"
 
 msgid "submission.currentCoverImage"
 msgstr "Ảnh hiện tại"
@@ -2456,7 +2456,7 @@ msgid "submission.wizard.submittingInLanguage"
 msgstr ""
 
 msgid "submission.wizard.submittingToSection"
-msgstr ""
+msgstr "Nộp bài vào chuyên mục <strong>{$section}</strong>."
 
 msgid "submission.wizard.submittingToSectionInLanguage"
 msgstr ""
@@ -2489,13 +2489,13 @@ msgid "submission.submit.selectPrincipalContact"
 msgstr "Người liên hệ chính với ban biên tập."
 
 msgid "submission.dataAvailability"
-msgstr ""
+msgstr "Tuyên bố về khả năng cung cấp dữ liệu"
 
 msgid "submission.dataAvailability.tip"
 msgstr ""
 
 msgid "submission.files.required.genre"
-msgstr ""
+msgstr "Bạn phải tải lên ít nhất một {$genre} tệp."
 
 msgid "submission.files.required.genres"
 msgstr ""
@@ -2539,3 +2539,5 @@ msgstr ""
 msgid "submission.submissionFile"
 msgstr "Tập tin bài gửi"
 
+msgid "submission.dashboard.view.revisionsRequested"
+msgstr "Yêu cầu sửa đổi"

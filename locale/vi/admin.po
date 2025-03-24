@@ -275,7 +275,7 @@ msgid "admin.settings.about"
 msgstr "Giới thiệu Trang web"
 
 msgid "admin.settings.enableBulkEmails.label"
-msgstr ""
+msgstr "Email hàng loạt"
 
 msgid "admin.settings.contactEmail"
 msgstr "Email của Liên lạc chính"
@@ -288,6 +288,15 @@ msgstr "Giới thiệu"
 
 msgid "admin.settings.minPasswordLength"
 msgstr "Độ dài mật khẩu tối thiểu (ký tự)"
+
+msgid "admin.settings.sharedReviewerStatistics"
+msgstr "Thống kê đánh giá viên"
+
+msgid "admin.settings.sharedReviewerStatistics.description"
+msgstr "Trong một cài đặt đa ngữ cảnh, thống kê đánh giá viên, chẳng hạn như số lượng đánh giá được gửi, có thể được hiển thị riêng lẻ cho từng ngữ cảnh hoặc được tổng hợp lại."
+
+msgid "admin.settings.sharedReviewerStatistics.disable"
+msgstr "Vô hiệu hóa thống kê đánh giá viên đã được tổng hợp"
 
 msgid "admin.settings.restrictBulkEmails"
 msgstr ""
@@ -671,55 +680,58 @@ msgid "admin.job.compileMetrics.error"
 msgstr ""
 
 msgid "admin.settings.statistics.collection"
-msgstr ""
+msgstr "Thu thạp dữ liệu"
 
 msgid "admin.settings.statistics.collection.description"
-msgstr ""
+msgstr "Cấu hình loại thống kê sử dụng nào nên thu thập"
 
 msgid "admin.settings.statistics.storage"
-msgstr ""
+msgstr "Lưu trữ dữ liệu"
 
 msgid "admin.settings.statistics.storage.description"
-msgstr ""
+msgstr "Cấu hình loại thống kê sử dụng nào nên lưu trữ tại nguồn"
 
 msgid "admin.settings.statistics.sushi"
-msgstr ""
+msgstr "Giao thức Sushi"
 
 msgid "admin.settings.statistics.sushi.description"
 msgstr ""
+"Cấu hình giao thức <a href=\"https://www.projectcounter.org/counter-sushi/"
+"\">COUNTER 5 SUSHI</a>, một định dạng được công nhận trong ngành để phân phối thống kê sử dụng."
 
 msgid "admin.settings.statistics.keepDaily"
-msgstr ""
+msgstr "Thống kê hàng tháng hay hàng ngày"
 
 msgid "admin.settings.statistics.keepDaily.description"
-msgstr ""
+msgstr "Có nên theo dõi thống kê sử dụng hàng ngày hoặc hàng tháng hay không. Việc theo dõi thống kê hàng ngày có thể làm tăng đáng kể kích thước cơ sở dữ liệu của bạn."
 
 msgid "admin.settings.statistics.keepDaily.keep"
-msgstr ""
+msgstr "Theo dõi thống kê hàng ngày và hàng tháng"
 
 msgid "admin.settings.statistics.keepDaily.discard"
-msgstr ""
+msgstr "Chỉ theo dõi thống kê hàng tháng"
 
 msgid "admin.settings.statistics.compressStatsLogs.label"
-msgstr ""
+msgstr "Nén dữ liệu nhật ký"
 
 msgid "admin.settings.statistics.compressStatsLogs.description"
-msgstr ""
+msgstr "Thống kê được tạo từ các tệp nhật ký truy cập, sau đó được chuyển đến <code>{$path}</code> sau khi đã được xử lý. Các tệp nhật ký này có nên được nén thành các tệp .gz sau khi xử lý không? Việc nén các tệp nhật ký có thể giúp tiết kiệm dung lượng đĩa trên máy chủ."
 
 msgid "admin.settings.statistics.compressStatsLogs.default"
-msgstr ""
+msgstr "Để các tệp nhật ký tại chỗ"
 
 msgid "admin.settings.statistics.compressStatsLogs.compress"
-msgstr ""
+msgstr "Nén các tệp nhật ký"
 
 msgid "admin.settings.statistics.publicSushiApi.private"
-msgstr ""
+msgstr "Hạn chế quyền truy cập API thống kê COUNTER SUSHI chỉ cho quản lý và quản trị viên"
 
 msgid "admin.settings.statistics.sushiPlatform"
-msgstr ""
+msgstr "Nền tảng"
 
 msgid "admin.settings.statistics.sushiPlatform.description"
 msgstr ""
+"Theo giao thức COUNTER SUSHI, mỗi báo cáo thống kê phải xác định \"nền tảng\" cung cấp các thống kê. Theo mặc định, tạp chí sẽ được chỉ định làm nền tảng cho tất cả các thống kê. Tuy nhiên, nếu tất cả các tạp chí trên trang web này được xuất bản, sở hữu hoặc điều hành bởi cùng một nhà cung cấp, bạn có thể muốn chỉ định trang web làm nền tảng."
 
 msgid "admin.settings.statistics.sushiPlatform.sushiPlatformID"
 msgstr ""
