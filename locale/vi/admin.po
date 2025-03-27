@@ -21,10 +21,10 @@ msgid "admin.adminFunctions"
 msgstr "Các chức năng quản trị"
 
 msgid "admin.deleteCache"
-msgstr ""
+msgstr "Xoá bộ nhớ cache"
 
 msgid "admin.deleteCache.description"
-msgstr ""
+msgstr "Xoá file cache khỏi hệ thống. Việc này chỉ nên thực hiện trên môi trường development."
 
 msgid "admin.clearDataCache"
 msgstr "Xóa bộ nhớ cache dữ liệu"
@@ -76,7 +76,7 @@ msgid "admin.expireSessions"
 msgstr "Hết hạn phiên người dùng"
 
 msgid "admin.expireSessions.description"
-msgstr ""
+msgstr "Tất cả người dùng sẽ bị đăng xuất ngay lặp tức, kể cả bạn, và sẽ cần đăng nhập lại."
 
 msgid "admin.languages.cantDisable"
 msgstr ""
@@ -348,10 +348,10 @@ msgid "admin.systemInformation"
 msgstr "Thông tin hệ thống"
 
 msgid "admin.systemInformation.description"
-msgstr ""
+msgstr "Hiển thị thông tin phiên bản và cấu hình của ứng dụng và máy chủ."
 
 msgid "admin.systemInformation.view"
-msgstr ""
+msgstr "Hiển thị thông tin hệ thống"
 
 msgid "admin.versionBuild"
 msgstr "Xây dựng"
