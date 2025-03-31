@@ -122,7 +122,7 @@ msgid "common.active"
 msgstr "Hoạt động"
 
 msgid "common.inactive"
-msgstr ""
+msgstr "Không hoạt động"
 
 msgid "common.add"
 msgstr "Thêm"
@@ -131,7 +131,7 @@ msgid "common.addCCBCC"
 msgstr ""
 
 msgid "common.addFiles"
-msgstr ""
+msgstr "Thêm tệp tin"
 
 msgid "common.addSelf"
 msgstr "Thêm chính mình"
@@ -140,7 +140,7 @@ msgid "common.attachedFiles"
 msgstr ""
 
 msgid "common.attachFiles"
-msgstr ""
+msgstr "Đính kèm tệp tin"
 
 msgid "common.attachSelected"
 msgstr ""
@@ -349,7 +349,7 @@ msgid "common.description"
 msgstr "Mô tả"
 
 msgid "common.details"
-msgstr ""
+msgstr "Chi tiết"
 
 msgid "common.dimensionsInches"
 msgstr "{$width}&Prime;&times;{$height}&Prime; ở {$dpi} DPI/PPI"
@@ -397,7 +397,7 @@ msgid "common.editItem"
 msgstr ""
 
 msgid "common.emailTemplates"
-msgstr ""
+msgstr "Bản mẫu emal"
 
 msgid "common.enable"
 msgstr "Kích hoạt"
@@ -468,7 +468,7 @@ msgid "common.filterRemove"
 msgstr "Xoá bộ lọc: {$filterTitle}"
 
 msgid "common.findTemplate"
-msgstr ""
+msgstr "Tìm bản mẫu"
 
 msgid "common.formatting"
 msgstr ""
@@ -504,7 +504,7 @@ msgid "common.inProgress"
 msgstr "Trong tiến trình"
 
 msgid "common.insert"
-msgstr ""
+msgstr "Chèn nội dung"
 
 msgid "common.insertContent"
 msgstr ""
@@ -528,7 +528,7 @@ msgid "common.languages"
 msgstr "Các ngôn ngữ"
 
 msgid "common.lastSaved"
-msgstr ""
+msgstr "Lần lưu cuối {$when}"
 
 msgid "common.lastActivity"
 msgstr "Hoạt động cuối cùng được ghi lại vào {$date}."
@@ -543,7 +543,7 @@ msgid "common.lessThanOnly"
 msgstr "Ít hơn"
 
 msgid "common.keepWorking"
-msgstr ""
+msgstr "Tiếp tục tác vụ"
 
 msgid "common.commaListSeparator"
 msgstr ", "
@@ -588,7 +588,7 @@ msgid "common.noneSelected"
 msgstr ""
 
 msgid "common.noneProvided"
-msgstr ""
+msgstr "Không được cung cấp"
 
 msgid "common.no"
 msgstr "Không"
@@ -863,7 +863,7 @@ msgid "common.suggest"
 msgstr "Đề xuất"
 
 msgid "common.switchTo"
-msgstr ""
+msgstr "Chuyển sang"
 
 msgid "common.switchToNamedItem"
 msgstr ""
@@ -887,7 +887,7 @@ msgid "common.uploadedBy"
 msgstr ""
 
 msgid "common.uploadedByAndWhen"
-msgstr ""
+msgstr "Đăng tải bở {$name} vào {$date}"
 
 msgid "common.component"
 msgstr "Thành phần"
@@ -926,7 +926,7 @@ msgid "common.up"
 msgstr "Lên"
 
 msgid "common.addFile"
-msgstr ""
+msgstr "Thêm tệp tin"
 
 msgid "common.upload.addFile"
 msgstr "Tải tập tin"
@@ -1260,7 +1260,7 @@ msgid "form.resubmit"
 msgstr "Gửi lại"
 
 msgid "form.saved"
-msgstr ""
+msgstr "Đã lưu"
 
 msgid "form.saveToUpload"
 msgstr "Sử dụng Lưu để tải tệp lên."
@@ -1479,7 +1479,7 @@ msgid "navigation.items"
 msgstr "{$from} - {$to} của {$total} mục"
 
 msgid "navigation.items.shownTotal"
-msgstr "{$shows} trong số {$total} hạng mục"
+msgstr "Hiển thị {$shows} trên tổng {$total}"
 
 msgid "navigation.login"
 msgstr "Đăng nhập"

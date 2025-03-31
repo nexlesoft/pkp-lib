@@ -63,7 +63,7 @@ msgid "editor.submission.workflowDecision.invalidReviewRoundSubmission"
 msgstr ""
 
 msgid "editor.submission.workflowDecision.invalidStage"
-msgstr ""
+msgstr "Bài viết không ở đúng khâu trong quy trình để thực hiện hành động này."
 
 msgid "editor.submission.workflowDecision.noUnassignedDecisions"
 msgstr ""
@@ -108,7 +108,7 @@ msgid "editor.submission.selectFiles"
 msgstr "Lựa chọn các tập tin"
 
 msgid "editor.submission.revisions"
-msgstr "Các bản sửa chữa"
+msgstr "Các sửa đổi"
 
 msgid "editor.submission.review.reviewersDescription"
 msgstr ""
@@ -574,10 +574,10 @@ msgid "reviewer.list.showOnlyReviewersFromPreviousRound"
 msgstr ""
 
 msgid "editor.decision.cancelDecision"
-msgstr ""
+msgstr "Huỷ Quyết Định"
 
 msgid "editor.decision.cancelDecision.confirmation"
-msgstr ""
+msgstr "Bạn có chắc chắn muốn hủy quyết định này không?"
 
 msgid "editor.decision.completeSteps"
 msgstr ""
@@ -589,10 +589,10 @@ msgid "editor.decision.emailSkipped"
 msgstr ""
 
 msgid "editor.decision.recordDecision"
-msgstr ""
+msgstr "Ghi nhận quyết định"
 
 msgid "editor.decision.skipEmail"
-msgstr ""
+msgstr "Bỏ qua email này"
 
 msgid "editor.decision.stepError"
 msgstr ""
